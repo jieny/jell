@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=ttymux
 PKG_VERSION:=1
-PKG_RELEASE:=7
+PKG_RELEASE:=9
 
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL=https://github.com/wd5gnr/SerialMux.git

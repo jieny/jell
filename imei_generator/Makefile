@@ -8,7 +8,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=imei_generator
-PKG_RELEASE:=5
+PKG_RELEASE:=7
 
 include $(INCLUDE_DIR)/package.mk
 
